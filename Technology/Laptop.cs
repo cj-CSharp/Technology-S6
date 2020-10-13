@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Technology
 {
-    class Laptop //child class
+    class Laptop : Computer //child class
     {
     }
 }
