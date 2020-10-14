@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Technology
 {
-    class Computer //Parent Class
+    class Computer : AbstractEntity //Parent Class
     {
         public string OperatingSystem { get; set; }
         public int HardDriveSize { get; set; }
